@@ -20,3 +20,4 @@ Dev Notes [config.php additions]
 - forceHttps - (boolean) forces weblink to initiate ssl connection. Highly recommended for PCI compliance.
 - forceAuth - (boolean) forces users to input AuthPass to enter. Default AuthPass is Tikol4Life.
 - testMode - (boolean) shows json response of each cURL resquest.
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/profiregod/Tikol4LifeChecker.git)
